@@ -168,7 +168,7 @@
 		"bigcitybeats" : {
 			"nameid" : 30319,
 			"descriptionid" : 30419,
-			"url" : "http://bigcitybeats-high.rautemusik.fm/listen.pls",
+			"url" : "http://bcb-high.rautemusik.fm/listen.pls",
 			"web" : "http://www.rautemusik.fm/bigcitybeats/",
 			"electronic" : 1,
 			"special" : 1
